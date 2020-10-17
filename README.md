@@ -37,7 +37,7 @@ ___粗斜体文本___
 
 `printf()` 函数
 
-这是个链接 [菜鸟教程](https://www.runoob.com)
+这是链接 [菜鸟教程](https://www.runoob.com)
 
 <img src="https://raw.githubusercontent.com/bailong8281566/pythongitTets/master/200v1d000001f0wo65DE3_R_550_412.jpg" width="50%">
 
