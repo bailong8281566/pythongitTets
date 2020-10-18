@@ -39,7 +39,7 @@ ___粗斜体文本___
 
 这是链接 [菜鸟教程](https://www.runoob.com)
 
-<img src="https://raw.githubusercontent.com/bailong8281566/pythongitTets/master/200v1d000001f0wo65DE3_R_550_412.jpg" width="50%">
+<img src="https://raw.githubusercontent.com/bailong8281566/pythongitTets/master/img/200v1d000001f0wo65DE3_R_550_412.jpg" width="50%">
 
 |  表头   | 表头  |
 |  ----  | ----  |
